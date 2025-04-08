@@ -6,9 +6,8 @@ In `by_book/` you will find one Markdown file for each book. The book titles are
 
 In `by_chapter/` you will find directories for each book with one Markdown file for each chapter.
 
-Want something formatted differently? Tweak the scripts or ask me.
-Want one of the other bible versions from Javascriptures? I might add them later... But if you don't want to wait: Again, edit the script and open a pull request if you want. Or ask nicely. 😉
+To downlaod audio, do `npm i` and then `node index.js`. You will find the audio files in `audio/`.
 
 **Disclaimer**:
-
-Please open an issue if you think I parsed something wrong... I haven't looked inside a bible in years. And I never had an English edition. The JSON contained some peculiarities, so I tried my best. This project was created for a kind stranger in the Obsidian Discord community. (Good editor, btw.)
+I am not the owner of this project.
+[Original repo](https://github.com/lguenth/mdbible)

@@ -1,2 +1,4 @@
 *.zip
+audio
+node_modules
 *.ipynb

@@ -1,0 +1,22 @@
+{
+  "name": "mdbible",
+  "version": "1.0.0",
+  "description": "English Standard Version (ESV) bible as plain text files with (very slight) Markdown formatting. Created and parsed from [Javascripture's JSON file](https://github.com/javascripture/javascripture/tree/gh-pages/bibles).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lguenth/mdbible.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lguenth/mdbible/issues"
+  },
+  "homepage": "https://github.com/lguenth/mdbible#readme",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
